@@ -1,4 +1,4 @@
-# trello-clone
+# Best Trello Clone made with HTML CSS AND JAVACRIPT.
 
 ## Built With
 
